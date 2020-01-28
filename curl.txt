@@ -1,0 +1,1 @@
+curl -i -X POST --url 'localhost:1042/get_html' --upload-file 'test.txt' > out.html
