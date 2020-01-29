@@ -19,6 +19,8 @@ def upload_file():
         file = request.files['file']
         if file.filename == '':
             return('<body style="background:#343a40"><img src="./static/404.png" style="border-radius:30px; margin: 40px 50px;"></body>')
+        if '.txt' not in file.filename:
+            return('<body style="background:#343a40"><img src="./static/404.png" style="border-radius:30px; margin: 40px 50px;"></body><h1>Wrong file format. Must be txt file.</h1>')
             
         file.save(secure_filename(file.filename))
         file_name = secure_filename(file.filename)
