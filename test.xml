@@ -1,0 +1,36 @@
+<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
+	<channel>
+		<title>Panagenda Live Feed</title>
+		<description>Panagenda Live Feed</description>
+		<pubDate>Fri, 23 Oct 2020 09:40:18 +0100</pubDate>
+		<generator>guenter</generator>
+		<link>https://panagenda.com</link>
+		<item>
+			<title>Deteced issues with MS Teams in Vienna Area: Issue Type Video-Call</title>
+			<link>https://panagenda.com</link>
+			<description>
+				<![CDATA[ Partial Outage for MS Teams Users in Vienna Area <br><br> <br/><br/>]]>
+			</description>
+			<dc:creator>panagenda</dc:creator>
+			<pubDate>Fri, 23 Oct 2020 05:44:42 +0100</pubDate>
+		</item>
+		<item>
+			<title>Deteced issues with Outlook in Atlanta Area: Issue Type Audio-Call</title>
+			<link>https://panagenda.com</link>
+			<description>
+				<![CDATA[ Partial Outage for MS Outlook Users in greater Atlanta Area <br><br> <br/><br/>]]>
+			</description>
+			<dc:creator>panagenda</dc:creator>
+			<pubDate>Fri, 23 Oct 2020 05:44:42 +0100</pubDate>	
+		</item>
+		<item>
+			<title>No Issues detected - Have a wonderful day!</title>
+			<link>https://panagenda.com</link>
+			<description>
+				<![CDATA[ Measuring several key markets in the US, Asia and Europe we could not detect anomalies. Have a greate working day! <br><br> <br/><br/>]]>
+			</description>
+			<dc:creator>panagenda</dc:creator>
+			<pubDate>Fri, 23 Oct 2020 05:44:42 +0100</pubDate>
+		</item>
+	</channel>
+</rss>
